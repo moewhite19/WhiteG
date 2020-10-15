@@ -1,0 +1,230 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/shears"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "rpgarmour:items/bamboo_dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "rpgarmour:items/bamboo_dragonfly_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:items/bamboo_dragonfly_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:items/dream_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "rpgarmour:items/star_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "rpgarmour:items/sealing_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "rpgarmour:hats/end_envoy"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:hats/fireworker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "rpgarmour:hats/forester"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "rpgarmour:hats/frogman"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "rpgarmour:hats/gardener"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "rpgarmour:hats/mechanician"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "rpgarmour:hats/pharmacist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "rpgarmour:hats/santa_claus"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "rpgarmour:hats/assaultmask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "rpgarmour:hats/christmas_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "rpgarmour:hats/ncrmask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "rpgarmour:items/pdg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "rpgarmour:hats/skimask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "rpgarmour:hats/ushankahat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "rpgarmour:hats/wing_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "tachibana:mods/samurai_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "tachibana:mods/samurai_sword_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "tachibana:mods/muramasa"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "rpgarmour:items/frostmourne"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "rpgarmour:items/valanyr"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "rpgarmour:items/estaff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "rpgarmour:items/hiyoridemeter"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "rpgarmour:items/yurikas_staff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "rpgarmour:hats/cat_ears/catears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "rpgarmour:hats/cat_ears/catears_diamond"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "rpgarmour:hats/cat_ears/catears_gold"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "rpgarmour:hats/cat_ears/catears_zombie"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "minecraft:mod/fan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "rpgarmour:items/broom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "rpgarmour:items/water_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "rpgarmour:items/wrench"
+		}
+	]
+}

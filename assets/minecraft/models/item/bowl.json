@@ -1,0 +1,248 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bowl"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "rpgarmour:items/coordinate_recorder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "cit:items/enchanted_book_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "cit:items/enchanted_book_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "cit:items/allium_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "cit:items/creeper_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "cit:items/egg_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "cit:items/barrel_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "cit:items/book_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "cit:items/book_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "cit:items/book_and_quill_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "cit:items/book_and_quill_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "cit:items/bucket_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "cit:items/fern_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "cit:items/fern_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "cit:items/fern_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "cit:items/fern_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "cit:items/glowstone_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "cit:items/gold_block_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "cit:items/gold_block_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "cit:items/gold_block_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "cit:items/pot_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "cit:items/pot_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "mod/pumpkin_lamp2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "cit:items/creeper_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "tachibana:mods/anvil_very_damaged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "tachibana:mods/bone_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "tachibana:mods/daylight_detector"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "tachibana:mods/dispenser"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "tachibana:mods/dye_white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "tachibana:mods/gray_stained_glass"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "mod/mio"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "mod/catpaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "rpgarmour:items/vkini"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "tachibana:mods/samurai_sword_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "rpgarmour:items/pinwheel_sword/pinwheel_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "rpgarmour:items/pinwheel_sword/pinwheel_green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "rpgarmour:items/pinwheel_sword/pinwheel_pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "rpgarmour:items/pinwheel_sword/pinwheel_red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "rpgarmour:items/pinwheel_sword/pinwheel_yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "minecraft:magic/mg_bule"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"moe.duang": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/duang"
+			}
+		]
+	},
+	"moe.zhengxiang": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/zhengxiang"
+			}
+		]
+	},
+	"moe.huaq": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/huaq_1",
+				"name": "moe/huaq_2"
+			}
+		]
+	},
+	"moe.zbc": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/zbc"
+			}
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:items/fairball"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "rpgarmour:items/fairball"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "rpgarmour:items/bullet"
+		}
+	]
+}

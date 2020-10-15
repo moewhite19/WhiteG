@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "rpgarmour:items/pinwheel_sword/pinwheel_blue"
+    }
+}

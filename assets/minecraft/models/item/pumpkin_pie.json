@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "cit:items/cod_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "cit:items/chicken_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "cit:items/enchanted_book_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:foods/zonzi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "rpgarmour:foods/fire_berry"
+		}
+	]
+}
